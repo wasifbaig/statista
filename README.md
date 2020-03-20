@@ -13,6 +13,7 @@ composer install
 http://localhost/statista/
  
 #extra
+
 We can use phplint for code debug <br>
 .\vendor\bin\phplint
 
